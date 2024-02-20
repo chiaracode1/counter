@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color:antiquewhite;
+}
+
+.blinking-text {
+    display: flex;
+    animation: blink 2s infinite;
+    font-family: 'Macondo', cursive;
+    font-size: 3em;
+    margin-top: 1.5em;
+    justify-content: center;
+}
+@keyframes blink {
+    0% {
+        color: red;
+    }
+
+    25% {
+        color: blue;
+    }
+
+    50% {
+        color: green;
+    }
+
+    75% {
+        color: orange;
+    }
+
+    100% {
+        color: purple;
+    }
+}
+
+.button {
+    width: 2em;
+    height: 1.5em;
+    margin-top: 6em;
+    margin-bottom: 1em;
+    font-size: 1.2em;
+}
+.span {
+    margin-right: 1em;
+    margin-left: 1em;
+}
+.resetButton {
+    display: block;
+    margin: auto;
+    font-family: 'Macondo', cursive;
+    font-weight: 600;
+}
