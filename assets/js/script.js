@@ -21,7 +21,7 @@ document.body.appendChild(incrementButton);
 document.body.appendChild(resetButton);
 
 /*Sound*/
-const audio = new Audio('click-stop.mp3');
+const audio = new Audio('audio/click-stop.mp3');
 
 
 let count = 0;
