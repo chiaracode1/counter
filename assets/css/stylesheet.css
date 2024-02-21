@@ -1,7 +1,10 @@
+
 body {
     margin: 0;
     text-align: center;
-    background-color:antiquewhite;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: linear-gradient(pink,white,rgb(122, 231, 122),rgb(188, 188, 207));
 }
 
 .blinking-text {
@@ -33,11 +36,10 @@ body {
         color: purple;
     }
 }
-
 .button {
     width: 2em;
     height: 1.5em;
-    margin-top: 6em;
+    margin-top: 2em;
     margin-bottom: 1em;
     font-size: 1.2em;
 }
