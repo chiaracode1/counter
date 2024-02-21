@@ -1,10 +1,13 @@
+html {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://img.freepik.com/free-vector/variety-flat-sushi-pattern_23-2147560482.jpg?w=740&t=st=1708512794~exp=1708513394~hmac=052061ddfe6f4eebd1ad6b95c4e7c9bf59a7a4e2534a261d4c4e561441eb2c4d);
 
+}
 body {
     margin: 0;
     text-align: center;
-    background-size: cover;
-    background-attachment: fixed;
-    background-image: linear-gradient(pink,white,rgb(122, 231, 122),rgb(188, 188, 207));
+
 }
 
 .blinking-text {
