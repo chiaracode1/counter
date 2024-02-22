@@ -1,4 +1,4 @@
-## My Sushi counter
+<h1>My Sushi Counter</h1>
 
 ## How To Use
 
