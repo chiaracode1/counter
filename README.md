@@ -1,6 +1,6 @@
 <h1>My Sushi Counter</h1>
 <summary>
-The Project
-  Requisite
-  Why a aushi counter?
+1.The Project
+  2.Requisite
+   3.Why a aushi counter?
 </summary>
