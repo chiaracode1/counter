@@ -1,11 +1,9 @@
 body {
-    margin: auto;
     text-align: center;
-    width: auto;
     backdrop-filter: blur(8px);
     background-repeat: repeat;
-    background-position: center;
-    background-size: 78em;
+    background-position: contain;
+    background-size: 20em;
     background-image: url(/assets/img/2170623.jpg)
     }
 
