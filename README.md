@@ -2,5 +2,5 @@
 <summary>
 1.The Project
   2.Requisite
-   3.Why a aushi counter?
+   3.Why a sushi counter?
 </summary>
