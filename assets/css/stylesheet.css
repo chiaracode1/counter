@@ -1,19 +1,18 @@
-html {
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-image: url(https://img.freepik.com/free-vector/variety-flat-sushi-pattern_23-2147560482.jpg?w=740&t=st=1708512794~exp=1708513394~hmac=052061ddfe6f4eebd1ad6b95c4e7c9bf59a7a4e2534a261d4c4e561441eb2c4d);
-
-}
 body {
-    margin: 0;
+    margin: auto;
     text-align: center;
-
-}
+    backdrop-filter: blur(8px);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 78em;
+    background-image: url(/assets/img/2170623.jpg)
+    }
 
 .blinking-text {
     display: flex;
     animation: blink 2s infinite;
     font-family: 'Macondo', cursive;
+    font-weight: 700;
     font-size: 3em;
     margin-top: 1.5em;
     justify-content: center;
@@ -39,6 +38,10 @@ body {
         color: purple;
     }
 }
+
+p {
+    font-weight: 600;
+}
 .button {
     width: 2em;
     height: 1.5em;
@@ -49,10 +52,17 @@ body {
 .span {
     margin-right: 1em;
     margin-left: 1em;
+    font-weight: 800;
 }
 .resetButton {
     display: block;
     margin: auto;
     font-family: 'Macondo', cursive;
     font-weight: 600;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
 }
