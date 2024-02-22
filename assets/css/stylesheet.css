@@ -1,7 +1,8 @@
 body {
     text-align: center;
     backdrop-filter: blur(8px);
-    background-size: 30em;
+    background-size: cover;
+    background-size: 45em;
     background-image: url(/assets/img/2170623.jpg)
     }
 
