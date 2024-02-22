@@ -39,25 +39,28 @@ function updateDisplay() {
         countDisplay.style.color = 'black';
     }
 
-    audio.play();
+    
 }
 
 /*Event*/
 decrementButton.addEventListener('click', function () {
     count--;
     updateDisplay();
+    audio.play();
 });
 
 
 incrementButton.addEventListener('click', function () {
     count++;
     updateDisplay();
+    audio.play();
 });
 
 
 resetButton.addEventListener('click', function () {
     count = 0;
     updateDisplay();
+    audio.play();
 });
 
 updateDisplay();
