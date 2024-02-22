@@ -1,10 +1,8 @@
 body {
     text-align: center;
     backdrop-filter: blur(8px);
-    background-size: cover;
     background-repeat: repeat;
-    background-size: 45em;
-    background-position: center;
+    background-size: 10em;
     background-image: url(/assets/img/2170623.jpg)
     }
 
@@ -66,3 +64,5 @@ a {
     justify-content: center;
     margin-top: 50px;
 }
+
+
