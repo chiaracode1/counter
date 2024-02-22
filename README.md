@@ -1,4 +1,7 @@
 <h1>My Sushi Counter</h1>
-##The Project
+<summary>
+  The Project
+</summary>
+--
 
 
