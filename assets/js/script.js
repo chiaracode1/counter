@@ -1,3 +1,5 @@
+/*Button with JS*/
+
 const decrementButton = document.createElement('button');
 decrementButton.textContent = '-';
 decrementButton.classList.add('button');
@@ -14,7 +16,7 @@ const resetButton = document.createElement('button');
 resetButton.textContent = 'Reset';
 resetButton.classList.add('resetButton');
 
- /*Button with JS*/
+ 
 document.body.appendChild(decrementButton);
 document.body.appendChild(countDisplay);
 document.body.appendChild(incrementButton);
