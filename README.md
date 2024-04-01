@@ -1,5 +1,4 @@
 # Sushi Counter
-<a href="https://ibb.co/sK2QcHy"><img src="https://i.ibb.co/bsPLYJz/image.png" alt="image" border="0"></a>
 
 # The Project
 
